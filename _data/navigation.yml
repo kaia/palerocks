@@ -1,0 +1,8 @@
+- name: Hjem
+  link: /
+
+- name: Blog
+  link: /blog
+
+- name: Om
+  link: /om
