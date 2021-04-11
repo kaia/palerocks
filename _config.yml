@@ -7,8 +7,9 @@ author: Kai Andresen
 description: En personlig blog
 lang: no
 locale: no_NB
-url: "https://pale.rocks"
+url: "https://kaisunivers.no"
 baseurl: ""
+name: kaisunivers.no
 
 # RSS feeds
 feed:

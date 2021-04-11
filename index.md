@@ -1,11 +1,11 @@
 ---
-title: Livet og sånn
-header: som jeg ser det
-description: Kais blog
+title: Kais univers
+header: kaisunivers.no
+description: litt om hva jeg får med meg
 permalink: /
 layout: default
 ---
 
 # Velkommen til bloggen min
 
-Dette er et forsøk på å flytte ut av fjesboka. Kanskje kommer noen til å savne postene mine der, så her er en sjanse til å følge med på hva som opptar meg.
+Denne bloggen er del av et forsøk på å flytte ut av fjesboka, google osv. Kanskje kommer noen til å savne navleloet mitt  der, så her er en sjanse til å følge med på hva som opptar meg.
