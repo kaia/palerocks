@@ -1,1 +1,20 @@
 
+header {
+  padding: 1rem .5rem;
+}
+
+/* Format navigation */
+nav {
+  padding: 0 0;
+}
+nav a {
+  margin: 0.5rem 0.1rem 0 0;
+  padding: .1rem 0.1rem;
+}
+
+main img, lite-hoyre {
+  max-width: 200px;
+  float: right;
+  break: none;
+  padding-left: 1rem;
+}
