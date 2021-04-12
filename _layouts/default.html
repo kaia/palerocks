@@ -8,7 +8,7 @@
     <meta name="description" content="{{ page.description }}" />
     {% feed_meta %}
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
-    <link rel="stylesheet" href="/assets/css/custom.css">
+    <!-- link rel="stylesheet" href="/assets/css/custom.css" -->
   </head>
   <body>
       <header>
@@ -22,7 +22,7 @@
         {{ content }}
       </main>
 
-<a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a>
+      <a href="/feed.xml"><img src="/assets/images/feed-icon.png" />RSS Feed</a>
 
       <footer>
         <p>© {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Bloggen lages ved hjelp av <a href="https://jekyllrb.com">Jekyll</a> og
