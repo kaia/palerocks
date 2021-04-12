@@ -22,6 +22,8 @@
         {{ content }}
       </main>
 
+<a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a>
+
       <footer>
         <p>© {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Bloggen lages ved hjelp av <a href="https://jekyllrb.com">Jekyll</a> og
           <a href="https://simplecss.org">Simple.css</a>.
