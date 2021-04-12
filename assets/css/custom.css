@@ -13,7 +13,7 @@ nav a {
 }
 
 main img, lite-hoyre {
-  max-width: 200px;
+  max-width: 25%;
   float: right;
   break: none;
   padding-left: 1rem;
