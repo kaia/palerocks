@@ -6,9 +6,5 @@
 
 # Notater til seg selv:
 
-Lite bilde til høyre i tekst, -bruk liquid til å sette css klasse .lite-hoyre 
-
-> ![alt-tekst](assets/images/bilde.jpg){ .lite-hoyre}
-
 Yaml multilinjer, se https://yaml-multiline.info/
 
