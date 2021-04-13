@@ -1,4 +1,14 @@
-
-Ny blog for ~~pale.rocks~~ kaisunivers.no
+# Ny blog for ~~pale.rocks~~ kaisunivers.no
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/15dfd043-b153-46fc-9fd8-b6b8c694578b/deploy-status)](https://app.netlify.com/sites/priceless-curran-3abc7d/deploys)
+
+
+
+# Notater til seg selv:
+
+Lite bilde til høyre i tekst, -bruk liquid til å sette css klasse .lite-hoyre 
+
+> ![alt-tekst](assets/images/bilde.jpg){ .lite-hoyre}
+
+Yaml multilinjer, se https://yaml-multiline.info/
+

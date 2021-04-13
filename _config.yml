@@ -4,11 +4,9 @@ plugins:
 
 # SEO Stuff
 author: Kai Andresen
-description: En personlig blog
+description: litt om hva jeg får med meg, og hva jeg får ut av det
 lang: no
-locale: no_NB
 url: "https://kaisunivers.no"
-baseurl: ""
 name: kaisunivers.no
 
 # RSS feeds
