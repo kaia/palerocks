@@ -6,7 +6,7 @@ permalink: /om/
 layout: default
 ---
 
-# En personlig blog
+# En personlig blogg
 
 for Kai Andresen, født på Rodeløkka i Oslo i 1965. Nå bosatt på Langhus.
 
