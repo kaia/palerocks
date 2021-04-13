@@ -3,7 +3,7 @@ title:
 header: 
 layout: post
 permalink: //
-Emner: [,,]
+emner: 
 oppdatert: 
 description: |+
 
