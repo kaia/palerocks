@@ -1,6 +1,6 @@
 ---
 title: Kais univers
-header: kaisunivers.no
+header: kaisunivers.org
 description: litt om hva jeg får med meg, og hva jeg får ut av det
 permalink: /
 layout: default

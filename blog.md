@@ -1,7 +1,7 @@
 ---
 layout: default
-title: kaisunivers.no
-header: kaisunivers.no
+title: kaisunivers.org
+header: kaisunivers.org
 description: litt om hva jeg får med meg, og hva jeg får ut av det
 permalink: /blog/
 ---

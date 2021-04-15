@@ -1,5 +1,5 @@
 ---
-title: Om kaisunivers.no
+title: Om kaisunivers.org
 header: Om bloggen og hvordan du kan kontakte meg
 description:
 permalink: /om/

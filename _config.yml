@@ -6,8 +6,8 @@ plugins:
 author: Kai Andresen
 description: litt om hva jeg får med meg, og hva jeg får ut av det
 lang: no
-url: "https://kaisunivers.no"
-name: kaisunivers.no
+url: "https://kaisunivers.org"
+name: kaisunivers.org
 
 # RSS feeds
 feed:
