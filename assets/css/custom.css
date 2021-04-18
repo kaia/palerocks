@@ -16,9 +16,10 @@ main p {
  overflow: auto;
 }
 
-.lite-hoyre { 
+
+.lite-hoyre {
   max-width: 33%;
-  padding: 0 0.5rem 0 0.5rem;
+  margin: 0.5rem 0 0 0;
   float: right;
   clear: right;
 }
