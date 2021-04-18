@@ -5,5 +5,4 @@
 
 
 # Notater til seg selv:
-
 Yaml multilinjer, se https://yaml-multiline.info/
